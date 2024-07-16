@@ -3,7 +3,7 @@
 
 ## Project Description (English)
 
-AI Generator Image is a SwiftUI application for generating images using artificial intelligence. Users can select various image styles and input text prompts to create unique artistic works.
+AI Generator Image is an application for generating images using artificial intelligence. Users can select various image styles and input text prompts to create unique artistic works.
 
 ### Features
 - Intuitive user interface with a welcome screen
@@ -30,7 +30,7 @@ If you have any questions, you can reach out to me on social media:
 
 ## Описание проекта (Russian)
 
-AI Generator Image - это приложение на SwiftUI для генерации изображений с использованием искусственного интеллекта. Пользователи могут выбирать различные стили изображений и вводить текстовые подсказки для создания уникальных художественных работ.
+AI Generator Image — это приложение для создания изображений с помощью искусственного интеллекта. Пользователи могут выбирать различные стили изображений и вводить текстовые подсказки для создания уникальных художественных работ.
 
 ### Особенности
 - Интуитивно понятный пользовательский интерфейс с приветственным экраном
